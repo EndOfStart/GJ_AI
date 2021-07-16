@@ -1,4 +1,25 @@
+주말에 할 작업
+0. tensorflow hub 객체 인식 보기 (yolo, openCV)
+	- 0. 참고 사이트 - https://wiserloner.tistory.com/1187 유튜브도 참고하기
+
+7월 17일
 오늘 해야할 작업
+1. kaggle 사이트에서 개 고양이 분류 학습 데이터 시각화해보기
+	- 1. 참고 사이트 - https://www.kaggle.com/jonnyjackk/image-classification-with-cnn-92-42-accuracy
+2. Seaborn을 이용한 데이터 시각화해보기
+	- countplot
+
+7월 16일 
+1. kaggle 사이트에서 개 고양이 분류 모방하기
+	- 1. 참고 사이트 - https://www.kaggle.com/jonnyjackk/image-classification-with-cnn-92-42-accuracy
+2. Seaborn을 이용한 데이터 시각화해보기
+	- countplot
+
+7월 15일
+1. kaggle 사이트에서 개 고양이 분류 모방하기
+	- 1. 참고 사이트 - https://www.kaggle.com/jonnyjackk/image-classification-with-cnn-92-42-accuracy
+2. 머신러닝 용어집 확인
+	- 2. 참고 사이트 - https://developers.google.com/machine-learning/glossary?hl=ko
 
 7월 14일
 1. 알고리즘 queue 문제 풀기
@@ -7,14 +28,7 @@
 4. tensorflow hub 객체 인식 보기 (yolo, openCV)
 	- 4. 참고 사이트 - https://wiserloner.tistory.com/1187 유튜브도 참고하기
 
-7월 15일
-어제 못했던 작업
-1. tensorflow hub 객체 인식 보기 (yolo, openCV)
-	- 1. 참고 사이트 - https://wiserloner.tistory.com/1187 유튜브도 참고하기
-2. kaggle 사이트에서 개 고양이 분류 모방하기
-	- 2. 참고 사이트 - https://www.kaggle.com/jonnyjackk/image-classification-with-cnn-92-42-accuracy
-3. 머신러닝 용어집 확인
-	- 3. 참고 사이트 - https://developers.google.com/machine-learning/glossary?hl=ko
+
 
 
 
