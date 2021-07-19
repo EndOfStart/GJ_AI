@@ -2,8 +2,11 @@
 0. tensorflow hub 객체 인식 보기 (yolo, openCV)
 	- 0. 참고 사이트 - https://wiserloner.tistory.com/1187 유튜브도 참고하기
 
-7월 17일
+7월 19일
 오늘 해야할 작업
+1. Seaborn을 이용한 주차 수요 예측(제출)에 적용해서 시각화해보기
+
+7월 17일
 1. kaggle 사이트에서 개 고양이 분류 학습 데이터 시각화해보기
 	- 1. 참고 사이트 - https://www.kaggle.com/jonnyjackk/image-classification-with-cnn-92-42-accuracy
 2. Seaborn을 이용한 데이터 시각화해보기
